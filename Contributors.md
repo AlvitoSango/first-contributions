@@ -6954,4 +6954,5 @@ Aadi Deshmukh
 -  [Rafael Jose Vizconde](https://github.com/plutoxyium)
 -  [David Goodwin](https://github.com/onyxius)
 -  [Dilsad Kut] (https://github.com/dilsadkutt)
++ AlvitoSango (@AlvitoSango)
 
